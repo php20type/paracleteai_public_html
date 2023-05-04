@@ -1,0 +1,37 @@
+/* ==========================================================================           
+ *
+ *    DOCUMENTS
+ *
+ * ========================================================================== */
+
+ .category-text {
+	background: #FFF4DF;
+	color: #FF9D00;
+}
+
+#createButton {
+	position: absolute;
+	right: 1rem;
+}
+
+
+/* ==========================================================================           
+ *
+ *    CODE
+ *
+ * ========================================================================== */
+
+ #code-textarea {
+
+	pre {
+		margin-top: 1rem;
+		height: 600px;
+		line-height: 0.7;
+
+		code {
+			font-family: source-code-pro,ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace!important;
+			font-size: 13px;
+		}
+	}
+ }
+
